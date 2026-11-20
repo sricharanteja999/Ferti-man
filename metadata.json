@@ -1,0 +1,6 @@
+{
+  "name": "FERTI-MAN — AI Male Reproductive & Total Health Platform",
+  "description": "Comprehensive male reproductive longevity, 90-day spermatogenesis cellular roadmap in 3D, intelligent medical records extraction, clinical consults, and habit streak optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
